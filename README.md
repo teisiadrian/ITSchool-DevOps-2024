@@ -1,4 +1,4 @@
-# ITSchool-DevOps-2024
+# ITSchool-DevOps
 Demo repository for Devops Course
 
 Tema
